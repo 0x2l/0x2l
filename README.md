@@ -3,7 +3,7 @@
 - learning c++/v8
 
 ### Reach me
-- [Twitter](https://twitter.com/CSG_0x2l)
+- [Twitter](https://twitter.com/_0x2l)
 - [My blog](https://www.0x2l.cn/)
 
 ### Github stats
