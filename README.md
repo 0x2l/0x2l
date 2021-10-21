@@ -1,5 +1,4 @@
 ### About me
-- Madao | Coder | Nerd
 - learning c++/v8
 
 ### Reach me
