@@ -1,5 +1,6 @@
 ### About me
-- learning c++/v8
+- learning Rust
+- Exploit ev
 
 ### Reach me
 - [Twitter](https://twitter.com/_0x2l)
