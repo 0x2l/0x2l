@@ -1,6 +1,6 @@
 ### About me
-- learning Rust
-- Exploit ev
+- Learning Rust
+- Exploit developer
 
 ### Reach me
 - [Twitter](https://twitter.com/_0x2l)
