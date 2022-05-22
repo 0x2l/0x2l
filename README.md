@@ -1,5 +1,5 @@
 ### About me
-- Learning Rust
+- Learning C++
 - Exploit developer
 
 ### Reach me
